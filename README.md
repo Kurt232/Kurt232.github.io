@@ -9,7 +9,9 @@ My plan is figuring out the four papers.
 1. Generalized Multiview Analysis: A Discriminative Latent Space  
 2. Multi-view Discriminant Analysis  
 3. Deep Canonical Correlation Analysis  
-4. GhostNet: More Features from Cheap Operations
+4. GhostNet: More Features from Cheap Operations  
+
+
 There are my notes about [Generalized Multiview Analysis: A Discriminative Latent Space](https://www.cs.umd.edu/~bhokaal/files/documents/GMA.pdf) at [Notion](https://www.notion.so/Generalized-Multiview-Analysis-A-Discriminative-Latent-Space-a5d68dc12bb94515a60f5998b17fdbc5)  
 
 ## News
