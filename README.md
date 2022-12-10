@@ -16,7 +16,20 @@ There are my notes about [Generalized Multiview Analysis: A Discriminative Laten
 
 ## Our Project
 The Associate Professor Quanhui Liu is our project mentor in November, which is about detecting the contagion source using Graph Neural Network. The detail information is in the [github repository](https://github.com/Kurt232/FindingP0)
+
+## Recent Learning
+1. linux OS in wsl
+2. cuda
+3. Multi-modals Leaning
 ## News
 Oct. 8, 2022, my home site was created on Github Pages  
 
 Oct. 30, 2022, I have a research problem given by Associate Professor Quanhui Liu about Graph Neural Network.
+
+Nov. 16, 2022, We finish the task to build GhostNet and pass the check from experts in Huawei Company.
+
+Nov. 18, 2022, I learned some knowledge about parallel compute by cuda.  
+
+Nov. 30, 2022, I find a good cource in bilibili about [Operate System](http://jyywiki.cn/OS/2022/). This course belongs to Nanjing University, really very very goood. And the teacher's name is Yanyan Jiang.
+
+
