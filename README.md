@@ -14,5 +14,8 @@ My plan is figuring out the four papers.
 
 There are my notes about [Generalized Multiview Analysis: A Discriminative Latent Space](https://www.cs.umd.edu/~bhokaal/files/documents/GMA.pdf) at [Notion](https://www.notion.so/Generalized-Multiview-Analysis-A-Discriminative-Latent-Space-a5d68dc12bb94515a60f5998b17fdbc5)  
 
+## Our Project
+The Associate Professor Quanhui Liu is our project mentor in November, which is 
 ## News
 Oct. 8, 2022, my home site was created on Github Pages
+Oct. 30, 2022, I have a research problem given by Associate Professor Quanhui Liu about Graph Neural Network.
