@@ -4,7 +4,7 @@ permalink: /awards/
 title: Awards
 description: 
 nav: true
-order: 3
+nav_order: 3
 ---
 
 **[mHealth Scholars](https://mhti.md2k.org/index.php/scholars/2024-scholars)**, NIH mHealth Training Institute (mHTI), 2024

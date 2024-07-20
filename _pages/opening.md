@@ -2,8 +2,6 @@
 layout: page
 permalink: /opening/
 title: Openings
-description: 
-nav: false
 ---
 
 Dr. [Xiaomin Ouyang](https://xmouyang.github.io/) will be joining the Department of Computer Science & Engineering, Hong Kong University of Science and Technology (HKUST) in Fall 2024 as a tenure-track Assistant Professor. **Multiple Ph.D. and RA openings** are available for strong candidates starting in **Fall 2024 /Spring 2025/Fall 2025**, working on AI for Internet of Things (AIoT) Systems.
