@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[FlexLoc](https://arxiv.org/abs/2406.06796) accepted by [IROS 2024](https://iros2024-abudhabi.org/).
+April 2024: Selected as one of [mHealth Scholars](https://mhti.md2k.org/index.php/scholars/2024-scholars).

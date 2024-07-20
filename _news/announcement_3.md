@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2015-10-22 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+[FlexLoc](https://arxiv.org/abs/2406.06796) accepted by [IROS 2024](https://iros2024-abudhabi.org/).
