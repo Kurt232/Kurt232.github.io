@@ -4,7 +4,7 @@ title: Team
 permalink: /Team/
 description: 
 nav: true
-order: 6
+order: 5
 ---
 
 - Current members

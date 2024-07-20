@@ -4,7 +4,7 @@ title: Service
 permalink: /service/
 description: 
 nav: true
-order: 5
+order: 4
 ---
 
 **Organizing Committee Member**

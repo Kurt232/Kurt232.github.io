@@ -4,7 +4,7 @@ permalink: /teaching/
 title: Teaching
 description: 
 nav: true
-order: 3
+order: 2
 ---
 
 **Mentering Experience**
