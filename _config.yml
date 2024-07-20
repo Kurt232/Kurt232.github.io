@@ -447,7 +447,7 @@ enable_video_embedding: false # enables video embedding for bibtex entries. If f
 third_party_libraries:
   download: false # if true, download the versions of the libraries specified below and use the downloaded files
   bootstrap-table:
-  integrity:
+    integrity:
       css: "sha256-uRX+PiRTR4ysKFRCykT8HLuRCub26LgXJZym3Yeom1c="
       js: "sha256-4rppopQE9POKfukn2kEvhJ9Um25Cf6+IDVkARD0xh78="
     url:
