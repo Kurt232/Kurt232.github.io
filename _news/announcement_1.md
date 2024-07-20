@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+[FlexLoc](https://arxiv.org/abs/2406.06796) accepted by [IROS 2024](https://iros2024-abudhabi.org/).
