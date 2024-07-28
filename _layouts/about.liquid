@@ -36,11 +36,11 @@ layout: default
       </div>
       {% if page.profile.personal_data %}
         <div class="more-info">{{ page.profile.personal_data }}</div>
-        <!-- Social -->
-        {% if page.social %}
-        <div class="contact-icons">{% include social.liquid %}</div>
-        {% endif %}
       {% endif %}
+      <!-- Social -->
+      <div class="social">
+        <div class="contact-icons">{% include social.liquid %}</div>
+      </div>
     </div>
     {% endif %}
 
