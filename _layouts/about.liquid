@@ -16,7 +16,8 @@ layout: default
 
   <article>
     {% if page.profile %}
-      <div class="profile float-{% if page.profile.align == 'left' %}left{% else %}right{% endif %}">
+    <div class="clearfix">
+      <div class="profile float-left">
         {% if page.profile.image %}
           {% assign profile_image_path = page.profile.image | prepend: 'assets/img/' %}
           {% if page.profile.image_circular %}
@@ -32,15 +33,15 @@ layout: default
             cache_bust=true
           %}
         {% endif %}
-        {% if page.profile.personal_data %}
-          <div class="more-info">{{ page.profile.personal_data }}</div>
-          <!-- Social -->
-          {% if page.social %}
-          <div class="contact-icons">{% include social.liquid %}</div>
-          {% endif %}
-        {% endif %}
       </div>
-      <div></div>
+      {% if page.profile.personal_data %}
+        <div class="more-info">{{ page.profile.personal_data }}</div>
+        <!-- Social -->
+        {% if page.social %}
+        <div class="contact-icons">{% include social.liquid %}</div>
+        {% endif %}
+      {% endif %}
+    </div>
     {% endif %}
 
     <div class="clearfix">{{ content }}</div>
