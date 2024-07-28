@@ -14,9 +14,9 @@ profile:
   #   <p>Your City, State 12345</p>
   personal_data: >
     <h3>Assistant Professor</h3>
-    <a href="https://cse.hkust.edu.hk/">Department of Computer Science and Engineering (CSE)</a>\n
-    <a href="https://seng.hkust.edu.hk/">School of Engineering (SENG)</a>\n
-    <a href="https://hkust.edu.hk/">The Hong Kong University of Science and Technology (HKUST)</a>
+    <h5><a href="https://cse.hkust.edu.hk/">Department of Computer Science and Engineering (CSE)</a></h5>
+    <h5><a href="https://seng.hkust.edu.hk/">School of Engineering (SENG)</a></h5>
+    <h5><a href="https://hkust.edu.hk/">The Hong Kong University of Science and Technology (HKUST)</a></h5>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
