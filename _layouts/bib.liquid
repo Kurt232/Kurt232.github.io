@@ -4,8 +4,7 @@
   {% if site.enable_publication_thumbnails %}
     <div class="col col-sm-2 abbr">
       {%- if entry.abbr -%}
-        {% assign abbr_parts = entry.abbr | split: "'" %}
-        {% assign abbr_name = abbr_parts[0] %}
+        {% assign abbr_name = entry.abbr | split: "'" | slice: 0 %}
         {%- if site.data.venues[abbr_name] -%}
           {% assign venue_style = null %}
           {% if site.data.venues[abbr_name].color != blank %}
