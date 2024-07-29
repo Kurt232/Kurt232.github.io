@@ -1,6 +1,9 @@
 % Some of the supported fields are: abstract, altmetric, arxiv, bibtex_show, blog, code, dimensions, doi, eprint, html, isbn, pdf, pmid, poster, slides, supp, video, and website.
 % we can add those fields, to see `ClusterFL`
 % we use `selected={true}` to control whether show it in the main page.
+% we use `publisher={arXiv}` to judge whether it is a preprint or not.
+% we use papers' abbr and the abbr attriubutes in _data/venues.yml to control abbr's color
+
 @misc{heFedKitEnablingCrossPlatform2024,
   title = {{{FedKit}}: {{Enabling Cross-Platform Federated Learning}} for {{Android}} and {{iOS}}},
   shorttitle = {{{FedKit}}},
@@ -12,7 +15,9 @@
   primaryclass = {cs},
   publisher = {arXiv},
   urldate = {2024-07-20},
-  archiveprefix = {arXiv}
+  archiveprefix = {arXiv},
+
+  abbr = {Preprint}
 }
 
 @article{luoOptimizationDesignFederated2023,
@@ -26,7 +31,8 @@
   publisher = {IEEE},
   urldate = {2024-07-20}, 
 
-  pdf = {https://arxiv.org/pdf/2303.08322.pdf}
+  abbr = {IEEE Network},
+  pdf = {https://arxiv.org/pdf/2303.08322.pdf}  
 }
 
 @inproceedings{ouyangADMarkerMultiModalFederated2024a,
@@ -127,7 +133,9 @@
   doi = {10.1145/3581791.3597505},
   urldate = {2024-07-20},
   isbn = {9798400701108},
-  langid = {english}
+  langid = {english},
+
+  abbr = {MobiSys'23}
 }
 
 @inproceedings{ouyangHarmonyHeterogeneousMultiModal2023,
@@ -166,6 +174,7 @@
   archiveprefix = {arXiv},
 
   selected = {true},
+  abbr = {Preprint},
   arxiv = {2310.15301}
 }
 
@@ -207,7 +216,9 @@
   primaryclass = {cs, eess},
   publisher = {arXiv},
   urldate = {2024-07-20},
-  archiveprefix = {arXiv}
+  archiveprefix = {arXiv},
+
+  abbr = {Preprint}
 }
 
 @inproceedings{xieHiToFToFCamera2022,
@@ -248,7 +259,8 @@
   abbr = {MobiSys'23},
   pdf = {https://xmouyang.github.io/data/Mozart_MobiSys23_publish.pdf},
   slides = {https://xmouyang.github.io/data/Mozart_MobiSys_slides.pdf},
-  code = {https://github.com/zhiyuancu/Mozart}
+  code = {https://github.com/zhiyuancu/Mozart},
+  note = {Best Paper Award}
 }
 
 @inproceedings{xieUltraDepthExposingHighResolution2021,
