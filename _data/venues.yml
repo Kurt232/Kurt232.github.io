@@ -1,20 +1,20 @@
 "MobiCom":
-  color: "#3572EF"
+  color: "#f92080" # pink
 
 "MobiCom Demo":
-  color: "#3572EF"
+  color: "#f92080" # pink
 
 "MobiSys":
-  color: "#FF9F45"
+  color: "#f29105" # orange
 
 "SenSys":
-  color: "#9CA986"
+  color: "#0076df" # blue
 
 "Preprint":
-  color: "#E3A5C7"
+  color: "#00ab37" # green
 
 "TOSN":
-  color: "#B1CBFA"
+  color: "#b7d12a" # green-lime
 
 "IEEE Network":
-  color: "#DFEBED"
+  color: "#b509ac" # purple 
