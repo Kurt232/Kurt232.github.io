@@ -1,14 +1,14 @@
 "MobiCom":
-  color: "#F76E11"
+  color: "#3572EF"
+
+"MobiCom Demo":
+  color: "#3572EF"
 
 "MobiSys":
   color: "#FF9F45"
 
 "SenSys":
-  color: "#FFBC80"
-
-"MobiCom Demo":
-  color: "#F76E11"
+  color: "#9CA986"
 
 "Preprint":
   color: "#E3A5C7"
